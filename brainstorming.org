@@ -1,0 +1,36 @@
+* Caves of Qud Modding Jam: Monster Mash
+"We encourage you to work on physically creating your mod (e.g. writing the data files) during the 72 hours when submissions are open—that is, from October 27th 2023 at 10:00 PM UTC to October 30th 2023 at 10:00 PM UTC. _Conceptualizing outside of this time is allowed."_
+
+** Salt Marsh Revenant
+The Salt Marsh Revenant is a grotesque creature that emerges from the briny waters of the Salt Marshes. It is a twisted and decayed remnant of a once-living being, its flesh marred by the corrosive effects of the saline environment. Its pallid skin is mottled with patches of algae and barnacles, giving it a nightmarish appearance.
+
+** Vorpal Pike
+A monstrous, razor-toothed fish with iridescent scales that gleam eerily in the moonlight. Its dorsal fin is adorned with cruel, serrated spines.
+
+** Reef Behemoth
+A colossal, amphibious creature with thick, scaly plates and rows of jagged spines running down its back. Its breath releases a putrid, toxic mist.
+
+/(cf, that big weird toad in Pan's Labyrinth?)/
+
+** Chrome Crested Kelpie of River Svy
+This Kelpie is adorned with shimmering, metallic scales that glint like polished chrome in the sunlight. Its mane is a cascade of cascading water, reflecting the colors of the rainbow. Unlike traditional Kelpies, the Chrome Crested Kelpie is known for its grace and alluring beauty, drawing travelers to its banks with an enchanting, hypnotic dance.
+
+** Opal-eyed Kelpie of River Opal :fixme:
+This Kelpie has translucent, opalescent skin that seems to refract and play with the light, giving it an otherworldly appearance. Its eyes gleam with a mysterious inner light, resembling opals. The Opal-eyed Kelpie is known for its mischievous nature, often toying with travelers and leading them on whimsical chases along the riverbanks.
+
+** Basaltic Abyssal Kelpie of River Yonth
+The Basaltic Abyssal Kelpie is a dark and foreboding creature, with scales the color of weathered basalt and eyes that gleam like molten lava. Its mane is a tangle of dark, writhing tendrils that seem to stretch endlessly beneath the water's surface. This Kelpie is known for its fierce and territorial nature, guarding the river with a sense of ancient, primal power.
+
+** Saltwoven Ancestor
+Wrapped in fabrics of the sacred Saltwoven Veil, the Saltwoven Ancestors stand sentinel in the salt-blanketed dunes. Their weathered forms, veiled in crimson patterns, echo with the wisdom of ages past, bound eternally to the desert's embrace.
+
+With ethereal eyes and leathery skin, they draw strength from the salt-laden air, their presence a testament to the endurance of the Issachari tribe. Guardians of ancestral spirits, they are revered as custodians of wisdom, their touch a spectral echo of bygone eras.
+
+** Marshbound Saltwyrm
+
+The Marshbound Saltwyrm is a monstrous, multi-headed serpent that dwells within the brackish waters and mire-choked channels of the Salt Marshes. Its scaly hide is a mottled blend of murky greens and browns, allowing it to blend seamlessly with the marshy terrain. Each of its heads sports a crown of serrated frills, reminiscent of the twisted vegetation that thrives in the salt-rich soil.
+Regenerative Heads: Much like the legendary Hydra, when a head is severed, two more grow in its place. This makes the Saltwyrm a formidable opponent that becomes more dangerous the longer the battle persists.
+
+** Some Kinda Snapjaw Crinos Thing
+
+** 
