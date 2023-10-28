@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <objects>
   <object Name="mistersix_spooky_monsters_Saltwoven Ancestor" Inherits="BaseIssachari">
-    <part Name="Description" Short="=pronouns.subjective= stands sentinel in the salt-blanketed dunes, wrapped in tattered strips. =pronouns.possessive= weathered form, veiled in crimson patterns, echoes with the wisdom of ages past, their moisture long since given to the wind." />
+    <part Name="Description" Short="=pronouns.Subjective= stands sentinel in the salt-blanketed dunes, wrapped in tattered strips. =pronouns.Possessive= weathered form, veiled in crimson patterns, echoes with the wisdom of ages past, their moisture long since given to the wind." />
     <part Name="Render" DisplayName="saltwoven ancestor" Tile="mistersix_saltwoven_ancestor/mistersix_saltwoven_ancestor.png" ColorString="&amp;y" DetailColor="r" />
+    <stat Name="Speed" Value="66" />
+    <mutation Name="TimeDilation" Level="1" />
+    <mutation Name="LifeDrain" Level="1" />
   </object>
+  <object Name="mistersix_spooky_monsters_Abyssal Kelpie" Inherits="Equimax">
+    <part Name="Description" Short="=pronouns.Subjective= is a dark and foreboding creature, with scales the color of weathered basalt and eyes that gleam like molten lava. =pronouns.Possessive= mane is a tangle of dark, writhing tendrils that seem to stretch endlessly beneath the water's surface. =pronouns.Subjective= is known for =pronouns.possessive= fierce and territorial nature, guarding Yonth with a sense of ancient, primal power." />
+    <part Name="Render" DisplayName="abyssal kelpie" Tile="mistersix_abyssal_kelpie/mistersix_abyssal_kelpie.png" ColorString="&amp;b" DetailColor="B" />
 </objects>
