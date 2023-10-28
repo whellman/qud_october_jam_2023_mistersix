@@ -12,4 +12,16 @@
     <part Name="Description" Short="=pronouns.Subjective= is a dark and foreboding creature, with scales the color of weathered basalt and eyes that gleam like molten lava. =pronouns.Possessive= mane is a tangle of dark, writhing tendrils that seem to stretch endlessly beneath the water's surface. =pronouns.Subjective= is known for =pronouns.possessive= fierce and territorial nature, guarding Yonth with a sense of ancient, primal power." />
     <part Name="Render" DisplayName="abyssal kelpie" Tile="mistersix_abyssal_kelpie/mistersix_abyssal_kelpie.png" ColorString="&amp;b" DetailColor="B" />
   </object>
+  
+  <object Name="mistersix_spooky_monsters_Marsh Revenant" Inherits="BaseHumanoid">
+    <part Name="Description" Short="A grotesque creature that emerges from the briny waters of the marsh, =pronouns.subjective= is a twisted and decayed form of a once-living being. =pronouns.Possessive= flesh is marred by the corrosive effects of the saline environment. =pronouns.Possessive= pallid skin is mottled with patches of algae and barnacles." />
+    <part Name="Render" DisplayName="marsh revenant" Tile="mistersix_marsh_revenant/mistersix_marsh_revenant.png" ColorString="&amp;c" DetailColor="m" />
+    <part Name="Corpse" CorpseChance="100" CorpseBlueprint="mistersix_spooky_monsters_Marsh Remnant" />
+  </object>
+
+  <object Name="mistersix_spooky_monsters_Marsh Remnant" Inherits="BaseHumanoid">
+    <part Name="Description" Short="'Never die in the swamp while carrying cloning draught.'  --Old Joppan Proverb" />
+    <part Name="Render" DisplayName="marsh revenant" Tile="mistersix_marsh_revenant/mistersix_marsh_remnant.png" ColorString="&amp;c" DetailColor="m" />
+  </object>
 </objects>
+
