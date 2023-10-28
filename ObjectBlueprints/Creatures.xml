@@ -10,4 +10,5 @@
   <object Name="mistersix_spooky_monsters_Abyssal Kelpie" Inherits="Equimax">
     <part Name="Description" Short="=pronouns.Subjective= is a dark and foreboding creature, with scales the color of weathered basalt and eyes that gleam like molten lava. =pronouns.Possessive= mane is a tangle of dark, writhing tendrils that seem to stretch endlessly beneath the water's surface. =pronouns.Subjective= is known for =pronouns.possessive= fierce and territorial nature, guarding Yonth with a sense of ancient, primal power." />
     <part Name="Render" DisplayName="abyssal kelpie" Tile="mistersix_abyssal_kelpie/mistersix_abyssal_kelpie.png" ColorString="&amp;b" DetailColor="B" />
+  </object>
 </objects>
