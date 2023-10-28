@@ -20,8 +20,9 @@
   </object>
 
   <object Name="mistersix_spooky_monsters_Marsh Remnant" Inherits="BaseHumanoid">
-    <part Name="Description" Short="'Never die in the swamp while carrying cloning draught.'  --Old Joppan Proverb" />
-    <part Name="Render" DisplayName="marsh revenant" Tile="mistersix_marsh_revenant/mistersix_marsh_remnant.png" ColorString="&amp;c" DetailColor="m" />
+    <part Name="Description" Short="'Never die in the swamp while carrying cloning draught.'  -Old Joppan Proverb" />
+    <part Name="Render" DisplayName="marsh remnant" Tile="mistersix_marsh_revenant/mistersix_marsh_remnants.png" ColorString="&amp;c" DetailColor="m" />
+    <stat Name="Speed" Value="50" />
   </object>
 </objects>
 
