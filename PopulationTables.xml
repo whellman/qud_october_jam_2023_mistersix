@@ -30,7 +30,7 @@
 
   <population Name="mistersix_SaltwovenPosse">
     <group Name="AncestralHonorguard" Style="pickeach">
-      <object Number="1" Blueprint="mistersix_spooky_monsters_Saltwoven Ancestor" />
+      <object Number="1" Blueprint="mistersix_spooky_monsters_Saltwoven Hero" />
       <object Number="2" Blueprint="Issachari Raider" />
     </group>
   </population>
