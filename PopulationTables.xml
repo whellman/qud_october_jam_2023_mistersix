@@ -34,5 +34,25 @@
       <object Number="2" Blueprint="Issachari Raider" />
     </group>
   </population>
-  
+
+
+  <!-- Salt marsh -->
+  <population Name="SaltMarshZoneGlobals" Load="Merge">
+    <table Name="StandardSurfaceGlobals" Load="Merge">
+      <object Chance="5" Blueprint="mistersix_spooky_monsters_Marsh Revenant" />
+    </table>
+    </population>
+
+  <population Name="SaltMarshPerSector" Load="Merge">
+    <group Name="Creatures" Load="Merge">
+      <table Name="mistersix_spooky_monsters_Marsh Revenant" Number="2d6" Chance="0.004" /> 
+    </group>
+  </population>
+
+    <population Name="LairOwners_Saltmarsh" Load="Merge">
+    <group Name="Options" Load="Merge">
+      <object Blueprint="mistersix_spooky_monsters_Marsh Revenant" />
+    </group>
+  </population>
+
 </populations>
