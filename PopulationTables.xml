@@ -38,14 +38,12 @@
 
   <!-- Salt marsh -->
   <population Name="SaltMarshZoneGlobals" Load="Merge">
-    <table Name="StandardSurfaceGlobals" Load="Merge">
-      <object Chance="5" Blueprint="mistersix_spooky_monsters_Marsh Revenant" />
-    </table>
-    </population>
+    <object Chance="15" Number="1" Blueprint="mistersix_spooky_monsters_Marsh Revenant" />
+  </population>
 
   <population Name="SaltMarshPerSector" Load="Merge">
     <group Name="Creatures" Load="Merge">
-      <table Name="mistersix_spooky_monsters_Marsh Revenant" Number="2d6" Chance="0.004" /> 
+      <table Name="mistersix_spooky_monsters_Marsh Revenant" Number="2d6" Chance="5" /> 
     </group>
   </population>
 
