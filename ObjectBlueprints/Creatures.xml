@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <objects>
   <object Name="mistersix_spooky_monsters_Saltwoven Ancestor" Inherits="BaseIssachari">
-    <part Name="Description" Short="=pronouns.Subjective= stands sentinel in the salt-blanketed dunes, wrapped in tattered strips. =pronouns.Possessive= weathered form, veiled in crimson patterns, echoes with the wisdom of ages past. Water no longer interests =pronouns.possessiveAdjective=, =pronouns.possessive= moisture long since given to the wind." />
+    <part Name="Description" Short="=pronouns.Subjective= stands sentinel in the salt-blanketed dunes, wrapped in tattered strips. =pronouns.Possessive= weathered form, veiled in crimson patterns, echoes with the wisdom of ages past. Water no longer interests =pronouns.objective=, =pronouns.possessive= moisture long since given to the wind." />
     <part Name="Render" DisplayName="saltwoven ancestor" Tile="mistersix_saltwoven_ancestor/mistersix_saltwoven_ancestor.png" ColorString="&amp;y" DetailColor="r" />
     <stat Name="Speed" Value="66" />
     <mutation Name="TimeDilation" Level="1" />
